@@ -7,7 +7,7 @@ import robocode.HitWallEvent;
 import robocode.BulletHitEvent;
 
 /**
- * @author Jose Fuentes
+ * @author Federico Lafflitto y Santiago Beron
  * 
  */
 
